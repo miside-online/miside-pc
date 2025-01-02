@@ -4,6 +4,12 @@
 ## Overview
 MiSide Game is a groundbreaking psychological horror adventure that begins with an innocent-looking mobile app. Dive into a mysterious world filled with binary puzzles, intense racing sequences, and spine-chilling atmosphere. Every choice shapes your story, every puzzle piece connects to a larger narrative, and every shadow could hide crucial clues.
 
+Release Date:Dec 10, 2024
+Developer:AIHASTO
+Publisher:IndieArk, Shochiku (Japan)
+
+
+
 ## Key Features
 - Revolutionary binary puzzle system challenging logical thinking
 - Psychological horror focused on tension and atmosphere
@@ -22,6 +28,11 @@ MiSide Game is a groundbreaking psychological horror adventure that begins with 
 - Interact with detailed character stories
 - Survive special areas like 'The Loop'
 - Make story-altering decisions
+# MiSide Pictures
+
+![Game Title Image](https://pub-de18dc3c90824394abf06cb24b33028d.r2.dev/miside/99af6b00ad04dd9bab55f22f7c27e7a8de983ff5.png)
+![Game Title Image](https://pub-de18dc3c90824394abf06cb24b33028d.r2.dev/miside/9abc71c372a61adcd93c95c0e2f39f504b22eb6d.png)
+
 
 ## Controls
 - Movement: WASD / Arrow keys
