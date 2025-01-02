@@ -1,4 +1,5 @@
 # MiSide Game
+![Game Title Image](https://pub-de18dc3c90824394abf06cb24b33028d.r2.dev/miside/pNLtWZAA27R2ja7eIXAS-EmM1K0Uk-c0L0EVJK4iukH9vYGulXQEkkTc7lEJN6vz5qtN5rDCtix4Tn5CVeGWww.webp)
 
 ## Overview
 MiSide Game is a groundbreaking psychological horror adventure that begins with an innocent-looking mobile app. Dive into a mysterious world filled with binary puzzles, intense racing sequences, and spine-chilling atmosphere. Every choice shapes your story, every puzzle piece connects to a larger narrative, and every shadow could hide crucial clues.
